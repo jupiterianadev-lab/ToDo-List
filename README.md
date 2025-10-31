@@ -92,6 +92,7 @@ java ToDoList
 
 ## Autor
 
-**Aline Santos – Desenvolvedora Full-stack**
+**Aline Santos (JupiterianaDev) – Desenvolvedora Full-stack**
 
 [LinkedIn](https://www.linkedin.com/in/aline-santos-37ab4b369?) | [GitHub](https://github.com/jupiterianadev-lab)
+
